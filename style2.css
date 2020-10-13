@@ -1,0 +1,35 @@
+* {
+    /* background-color: #d4d7df; */
+    font-family: montserrat;
+}
+
+img {
+    width: 250px;
+    height: 150px;
+    margin: 5px 0 5px 0;
+    /* transition: all 1s; */
+  }
+  
+.topnav {
+    background-color: #040c44;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #54c4ed;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #040c44;
+    color: white;
+  }
+  
+  .topnav a.active {
+    background-color: #040c44;
+    color: white;
+  }
